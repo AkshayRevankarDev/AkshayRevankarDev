@@ -84,13 +84,7 @@
 
 ---
 
-## 🏆 Trophy Case
 
-<center>
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshayRevankarDev&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</center>
-
----
 
 ## 🚀 Featured Projects
 
